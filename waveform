@@ -1,1 +1,5 @@
+## 🔍 Example Waveform
 
+Below is the GTKWave output of the 4-bit counter:
+
+![Counter Waveform](waveform.png)
