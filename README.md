@@ -13,6 +13,4 @@ A simple 4-bit synchronous up-counter with active-low asynchronous reset, writte
 **Compile:**
 ```bash
 iverilog -o counter_4bit_tb.vvp counter_4bit.v counter_4bit_tb.v
-## 🔍 Example Waveform
 
-![Counter Waveform](waveform.png)
